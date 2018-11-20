@@ -1,10 +1,10 @@
 # Site settings
 title: JtxBlog
-SEOTitle: JTX的博客|Jtx Blog
+SEOTitle: JTX的博客
 header-img: img/index.jpg
 email: tianxiang1314520@gmail.com
 description: "You need to work harder"
-keyword: "Blog,创建博客博客,python教程,前端教程,github博客创建教程"
+keyword: "JtxBlog,创建博客,python教程,前端教程,github博客创建教程,Jtx的博客"
 url: "http://jtxyh.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/JTXYH/JTXYH.github.io" # you code repository
@@ -21,7 +21,7 @@ RSS: false
 # weibo_username:     qiubaiying
 zhihu_username:     xiao-xiang-36-50
 github_username:    JTXYH
-twitter_username:   JTX520YH
+# twitter_username:   JTX520YH
 # facebook_username:
 
 
@@ -103,10 +103,6 @@ friends: [
     },{
         title: "知乎",
         href: "https://www.zhihu.com/people/xiao-xiang-36-50/activities"
-    },
-    {
-        title: "Twitter",
-        href: "https://twitter.com/JTX520YH"
     },
     {
         title: "ZhanQi",
