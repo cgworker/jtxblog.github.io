@@ -1,10 +1,10 @@
 # Site settings
 title: JtxBlog
-SEOTitle: 欢迎来到我的博客
+SEOTitle: JTX的博客|Jtx Blog
 header-img: img/index.jpg
 email: tianxiang1314520@gmail.com
-description: "你需要更努力！"
-keyword: "博客,创建博客博客,python教程,前端教程,github博客创建教程"
+description: "You need to work harder"
+keyword: "Blog,创建博客博客,python教程,前端教程,github博客创建教程"
 url: "http://jtxyh.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/JTXYH/JTXYH.github.io" # you code repository
