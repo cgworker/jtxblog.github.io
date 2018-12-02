@@ -99,7 +99,7 @@ service-worker: true
 friends: [
     {
         title: "GitHub",
-        href: "http://jtxyh.github.io"
+        href: "https://github.com/JTXYH"
     },{
         title: "知乎",
         href: "https://www.zhihu.com/people/xiao-xiang-36-50/activities"
