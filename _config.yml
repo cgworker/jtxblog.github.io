@@ -1,24 +1,24 @@
 # Site settings
-title: JtxBlog
-SEOTitle: JTX的博客
-header-img: img/index.jpg
-email: tianxiang1314520@gmail.com
-description: "You need to work harder"
-keyword: "JtxBlog,创建博客,python教程,前端教程,github博客创建教程,Jtx的博客"
-url: "http://jtxyh.github.io"          # your host, for absolute URL
+title: JtxBlog   # 打开网站的左上角和中间显示的名称
+SEOTitle: JTX的博客  # 网站的搜索标题
+header-img: img/index.jpg  # 首页的背景图片
+email: tianxiang1314520@gmail.com  # 个人介绍页的邮箱
+description: "You need to work harder"  # 给你自己的一句话，在中间显示
+keyword: "JtxBlog,创建博客,python教程,前端教程,github博客创建教程,Jtx的博客"  # 搜索网站的关键词
+url: "http://jtxyh.github.io"          # 你的网站的地址
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/JTXYH/JTXYH.github.io" # you code repository
+github_repo: "https://github.com/JTXYH/JTXYH.github.io" # 你仓库的地址
 
 # Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "人生苦短,我学Python!"
-sidebar-avatar: /img/avatar_m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar: true                           # 是否显示About页面
+sidebar-about-description: "人生苦短,我学Python!"  # 给你自己一句话
+sidebar-avatar: /img/avatar_m.jpg      # About页面的背景图
 
 
 
-# SNS settings
+# SNS settings  几类社交账号
 RSS: false
-weibo_username:     5523812072
+weibo_username:     5523812072 
 zhihu_username:     xiao-xiang-36-50
 github_username:    JTXYH
 # twitter_username:   JTX520YH
@@ -77,7 +77,7 @@ gitalk:
 
 # Google Analytics
 ga_track_id: 'UA-125866747-1'            # Format: UA-xxxxxx-xx
-ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain: auto               # 默认的是 auto, 你如果没有自己的域名，需要改成auto
 
 
 
